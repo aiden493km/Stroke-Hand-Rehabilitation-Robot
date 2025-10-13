@@ -13,6 +13,7 @@ Biomimetic cable-driven mechanism: Lightweight and flexible, enabling natural fi
 CNN-Transformer hybrid algorithm: Achieves over 90% accuracy in gesture prediction, allowing the robot to respond dynamically to patient intent.
 
 Multi-sensor fusion: Combines sEMG, Flex sensors, and force feedback for safety and real-time adjustments.
+
 <img width="454" height="254" alt="项目流程图" src="https://github.com/user-attachments/assets/6308d474-685b-49b8-b521-2028ebdf3c49" />
 
 ## ⚙️ Rope-Driven System
